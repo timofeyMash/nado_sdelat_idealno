@@ -11,8 +11,8 @@ h1 {
   line-height: 136.18px;
   position: absolute;
   z-index: 2;
-  left: 431px;
-  top: 60px;
+  left: 442px;
+  top: 72px;
 }
 
 h1:hover::before {
