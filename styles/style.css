@@ -28,7 +28,7 @@ body::after {
   content: "*";
 }
 
-.page-title:hover::before {
+.page-title::before {
   content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
   white-space: pre;
   text-align: left;
@@ -67,5 +67,4 @@ body::after {
   object-position: center;
   top: 0;
   left: 0;
-  border: 1px solid red;
 }
