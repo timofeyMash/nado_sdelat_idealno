@@ -5,11 +5,16 @@
 }
 
 body {
-  width: 100vw;
+  min-width: 800px;
   font-family: Raleway, sans-serif;
   height: 100%;
   margin: 0;
   text-align: center;
+  position: relative;
+}
+
+html {
+  height: 100%;
 }
 
 h1,
